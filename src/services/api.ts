@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = process.env.REACT_APP_API_URL || 'https://your-render-app.onrender.com/api';
+const API_URL = process.env.REACT_APP_API_URL || 'https://batoners-war-api.onrender.com/api';
 
 const api = axios.create({
   baseURL: API_URL,

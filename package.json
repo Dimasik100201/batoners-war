@@ -2,7 +2,7 @@
   "name": "batoners-war",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/batoners-war",
+  "homepage": "https://Dimasik100201.github.io/batoners-war",
   "dependencies": {
     "@twa-dev/sdk": "^8.0.1",
     "@types/node": "^16.18.60",
