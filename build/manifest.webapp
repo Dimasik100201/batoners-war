@@ -1,0 +1,20 @@
+{
+  "name": "Batoners War",
+  "description": "Кликер с батонами",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/logo512.png",
+    "192": "/logo192.png"
+  },
+  "developer": {
+    "name": "Your Name",
+    "url": "https://t.me/your_username"
+  },
+  "default_locale": "ru",
+  "type": "web",
+  "permissions": {
+    "desktop-notification": {
+      "description": "Required for showing game notifications"
+    }
+  }
+} 
